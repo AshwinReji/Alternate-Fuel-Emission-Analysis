@@ -28,3 +28,19 @@ This project investigates the emission characteristics and engine performance of
 - Power BI connected directly to MySQL
 - Separate dashboard created using SQL as the backend source
 
+## 🧠 SQL Queries Used
+
+All SQL analysis queries used to summarize emission data and calculate average performance metrics are included in the file:
+
+### Example Query
+```sql
+CREATE VIEW blend_summary AS
+SELECT 
+  `Fuel Type`,
+  `Hydrogen Flow (lpm)`,
+  ROUND(AVG(`CO (ppm)`), 2) AS avg_CO,
+  ROUND(AVG(`NOx (ppm)`), 2) AS avg_NOx,
+  ROUND(AVG(`Thermal Efficiency (%)`), 2) AS avg_eff,
+  ROUND(AVG(`Smoke (%)`), 2) AS avg_smoke
+FROM Alternate_Fuel_Analysis
+GROUP BY `Fuel Type`, `Hydrogen Flow (lpm)`;
