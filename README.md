@@ -16,7 +16,7 @@ This project investigates the emission characteristics and engine performance of
 - **GitHub** (portfolio)
 
 ## 📊 Dashboards
-
+![Dashboard]([Dashboard](dashboard-screenshots/dax-dashboard.png)
 ### 📘 Dashboard 1: Excel + Power BI (DAX-Based)
 - Developed using Excel data and calculated DAX measures
 - Visuals include clustered bar charts, matrix, KPIs, tooltips, and gauge meters
