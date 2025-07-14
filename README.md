@@ -31,14 +31,14 @@ This project investigates the emission characteristics and engine performance of
 ## 🧠 SQL Queries Used
 
 All SQL analysis queries used to summarize emission data and calculate average performance metrics are included in the file:
--Average emissions by fuel blend + hydrogen
--Rank blends by efficiency
--Emissions stats With and Without Hydrogen
--Top 5 Most Efficient Fuel + H₂ Combinations
--Least Polluting Fuel Combos (Lowest Combined Emissions)
--Average Net Heat Release Rate by Blend
--Performance by Load Level
--Highest Exhaust Temperatures
+- Average emissions by fuel blend + hydrogen
+- Rank blends by efficiency
+- Emissions stats With and Without Hydrogen
+- Top 5 Most Efficient Fuel + H₂ Combinations
+- Least Polluting Fuel Combos (Lowest Combined Emissions)
+- Average Net Heat Release Rate by Blend
+- Performance by Load Level
+- Highest Exhaust Temperatures
 
 ![View all SQL queries](https://github.com/AshwinReji/Alternate-Fuel-Emission-Analysis/blob/main/Alternate%20Fuel%20Analysis.sql)
 ### Example Query
