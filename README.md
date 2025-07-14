@@ -7,3 +7,23 @@ This project investigates the emission characteristics and engine performance of
 - Evaluate performance metrics such as Thermal Efficiency, Specific Fuel Consumption, and Net Heat Release Rate
 - Compare results with and without hydrogen gas injection
 - Showcase SQL and Power BI (DAX) integration for data analysis
+
+## 🛠️ Tools Used
+
+- **Power BI** (with DAX measures and visuals)
+- **MySQL** (views, aggregations, filtering)
+- **Excel/CSV** (source data)
+- **GitHub** (portfolio)
+
+## 📊 Dashboards
+
+### 📘 Dashboard 1: Power BI + Excel (DAX-Based)
+- Developed using Excel data and calculated DAX measures
+- Visuals include clustered bar charts, matrix, KPIs, tooltips, and gauge meters
+- Focused on emission vs performance across different blends
+
+### 🟦 Dashboard 2: MySQL + Power BI
+- SQL views used to summarize and group emissions by blend
+- Power BI connected directly to MySQL
+- Separate dashboard created using SQL as the backend source
+- 
