@@ -28,8 +28,3 @@ This project investigates the emission characteristics and engine performance of
 - Power BI connected directly to MySQL
 - Separate dashboard created using SQL as the backend source
 
-### 🟦 Dashboard 2: MySQL + Power BI
-- SQL views used to summarize and group emissions by blend
-- Power BI connected directly to MySQL
-- Separate dashboard created using SQL as the backend source
-- 
