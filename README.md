@@ -31,7 +31,7 @@ This project investigates the emission characteristics and engine performance of
 ## 🧠 SQL Queries Used
 
 All SQL analysis queries used to summarize emission data and calculate average performance metrics are included in the file:
-[View all SQL queries](https://github.com/AshwinReji/Alternate-Fuel-Emission-Analysis/blob/main/Alternate%20Fuel%20Analysis.sql)
+![View all SQL queries](https://github.com/AshwinReji/Alternate-Fuel-Emission-Analysis/blob/main/Alternate%20Fuel%20Analysis.sql)
 ### Example Query
 ```sql
 CREATE VIEW blend_summary AS
