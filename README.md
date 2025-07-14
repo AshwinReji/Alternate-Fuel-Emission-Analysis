@@ -22,6 +22,11 @@ This project investigates the emission characteristics and engine performance of
 - Developed using Excel data and calculated DAX measures
 - Visuals include clustered bar charts, matrix, KPIs, tooltips, and gauge meters
 - Focused on emission vs performance across different blends
+  ### 🟦 Dashboard 2: MySQL + Power BI
+![Dashboard Preview](https://github.com/AshwinReji/Alternate-Fuel-Emission-Analysis/blob/main/Power%20BI%20%2B%20SQL.png)  
+- SQL views used to summarize and group emissions by blend
+- Power BI connected directly to MySQL
+- Separate dashboard created using SQL as the backend source
 
 ### 🟦 Dashboard 2: MySQL + Power BI
 - SQL views used to summarize and group emissions by blend
