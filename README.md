@@ -18,7 +18,7 @@ This project investigates the emission characteristics and engine performance of
 ## 📊 Dashboards
 
 ### 📘 Dashboard 1: Excel + Power BI (DAX-Based)
-
+![Dashboard Preview](https://github.com/AshwinReji/Alternate-Fuel-Emission-Analysis/blob/main/Excel%20%2B%20Power%20BI%20(DAX-Based).png)
 - Developed using Excel data and calculated DAX measures
 - Visuals include clustered bar charts, matrix, KPIs, tooltips, and gauge meters
 - Focused on emission vs performance across different blends
