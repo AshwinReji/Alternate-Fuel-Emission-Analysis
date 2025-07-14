@@ -1,4 +1,4 @@
-# Emission & Efficiency Analysis of Alternative Fuels in CI Engine
+# Emission & Efficiency Analysis of Alternative Fuels Using Hydrogen in CI Engine
 This project investigates the emission characteristics and engine performance of various alternative fuel blends, including Waste Cooking Oil (WCO), Waste Plastic Oil (WPO), and Diesel, with and without Hydrogen gas enrichment. The dataset was derived from experimental testing under multiple load conditions and analyzed using both Power BI and SQL (MySQL).
 
 ## 📌 Project Objectives
